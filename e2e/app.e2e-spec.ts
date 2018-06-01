@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('angular5-firebase-crud App', () => {
+describe('angualar5-firebase-crud App', () => {
   let page: AppPage;
 
   beforeEach(() => {
